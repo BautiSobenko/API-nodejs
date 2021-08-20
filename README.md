@@ -8,7 +8,7 @@
 ### > Descripcion del programa 
 
 #### Ingresando por consola una ubicacion, MapBox me trae diferentes posibles ciudades.
-### Seleccionando una de ellas y haciiendo un get hacia la API OpenWeather me traigo informacion acerca de su clima y trabajo con ello
+#### Seleccionando una de ellas y haciendo un get hacia la API OpenWeather me traigo informacion acerca de su clima y trabajo con ello
 
 ---
 
